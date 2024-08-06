@@ -8,7 +8,7 @@
 
 不限制客户端连接数量、不限速，多地区500Mbps峰值速率，电信/移动/联通入口接入。
 
-Netflix、HBO、Disney+、ChatGPT等流媒体解锁，支持SecureX安全隧道加密协议。1111
+Netflix、HBO、Disney+、ChatGPT等流媒体解锁，支持SecureX安全隧道加密协议。11111
 
 香港、日本、新加坡、美国、德国、迪拜等地区中继接入。
 
